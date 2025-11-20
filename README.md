@@ -19,7 +19,7 @@
 
 Soy **Theo Cervera**, estudiante de **Licenciatura en Informática** en la **Universidad Nacional de La Plata (UNLP)**. Me apasiona el desarrollo de software, el aprendizaje de sistemas de bajo nivel y construir proyectos prácticos que resuelvan problemas reales.
 
-Trabajo habitualmente con proyectos personales y ejercicios prácticos que puedes encontrar en esta carpeta `gitProyects`.
+Trabajo habitualmente con proyectos personales y ejercicios prácticos que puedes encontrar en los repositorios de mas abajo.
 
 ---
 
