@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hola — soy Theo Cervera</h1>
 
 <p align="center">
-  <img src="https://github.com/theofalso.png?size=160" alt="Theo Cervera" width="120" style="border-radius:50%">
-</p>
-
-<p align="center">
   <img alt="UNLP" src="https://img.shields.io/badge/Estudios-Licenciatura%20en%20Inform%C3%A1tica-blue" />
   <img alt="School" src="https://img.shields.io/badge/Instituci%C3%B3n-UNLP-lightgrey" />
   <img alt="Status" src="https://img.shields.io/badge/Status-Estudiante-green" />
@@ -62,12 +58,6 @@ Trabajo habitualmente con proyectos personales y ejercicios prácticos que puede
 Para ver todos los proyectos, explora la carpeta del repositorio y abre cada subcarpeta.
 
 ---
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theofalso&show_icons=true&theme=radical&locale=es" alt="github stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofalso&layout=compact&theme=radical&locale=es" alt="top languages"/>
