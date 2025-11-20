@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">👋 Hola — soy Theo Cervera</h1>
 
-<!--
-**theofalso/theofalso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/theofalso.png?size=160" alt="Theo Cervera" width="120" style="border-radius:50%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img alt="UNLP" src="https://img.shields.io/badge/Estudios-Licenciatura%20en%20Inform%C3%A1tica-blue" />
+  <img alt="School" src="https://img.shields.io/badge/Instituci%C3%B3n-UNLP-lightgrey" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Estudiante-green" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#sobre-mi">Sobre mí</a> •
+  <a href="#habilidades">Habilidades</a> •
+  <a href="#proyectos-destacados">Proyectos</a> •
+  <a href="#contacto">Contacto</a>
+</p>
+
+---
+
+## 🔎 Sobre mí
+
+Soy **Theo Cervera**, estudiante de **Licenciatura en Informática** en la **Universidad Nacional de La Plata (UNLP)**. Me apasiona el desarrollo de software, el aprendizaje de sistemas de bajo nivel y construir proyectos prácticos que resuelvan problemas reales.
+
+Trabajo habitualmente con proyectos personales y ejercicios prácticos que puedes encontrar en esta carpeta `gitProyects`.
+
+---
+
+## 🛠 Habilidades y Tecnologías
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Lenguajes</b>
+      <ul>
+        <li>Python</li>
+        <li>Assembly (x86, boot)</li>
+        <li>GDScript (Godot)</li>
+        <li>Bash / Batch</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>Herramientas & Frameworks</b>
+      <ul>
+        <li>Godot Engine</li>
+        <li>Git / GitHub</li>
+        <li>Make / compilación a bajo nivel</li>
+        <li>Entornos Windows / PowerShell</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Proyectos destacados
+
+- `assembly-learning/` — ejercicios y proyectos en ensamblador, bootloader y pequeñas utilidades de sistema.
+- `Backgroud-Removal-App/` — aplicación Python para eliminación de fondo en imágenes (con `app.py`).
+
+Para ver todos los proyectos, explora la carpeta del repositorio y abre cada subcarpeta.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theofalso&show_icons=true&theme=radical&locale=es" alt="github stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofalso&layout=compact&theme=radical&locale=es" alt="top languages"/>
+</p>
+
+---
+
+## 📫 Contacto
+
+Puedes contactarme aquí:
+
+- Correo: `theocervera2003@gmail.com`
