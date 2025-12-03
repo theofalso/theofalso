@@ -33,6 +33,8 @@ Trabajo habitualmente con proyectos personales y ejercicios prácticos que puede
         <li>Python</li>
         <li>Assembly (x86, boot)</li>
         <li>GDScript (Godot)</li>
+        <li>Java</li>
+        <li>Go</li>
         <li>Bash / Batch</li>
       </ul>
     </td>
