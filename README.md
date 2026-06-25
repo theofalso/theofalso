@@ -1,74 +1,138 @@
-<h1 align="center">👋 Hola — soy Theo Cervera</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Theo+Cervera+%F0%9F%91%8B;CS+Student+%40+UNLP;Low-Level+%26+Systems+Developer;Always+building+something+new" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img alt="UNLP" src="https://img.shields.io/badge/Estudios-Licenciatura%20en%20Inform%C3%A1tica-blue" />
-  <img alt="School" src="https://img.shields.io/badge/Instituci%C3%B3n-UNLP-lightgrey" />
-  <img alt="Status" src="https://img.shields.io/badge/Status-Estudiante-green" />
+  <a href="https://www.linkedin.com/in/theo-cervera-lede-a24094251/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:theocervera2003@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/theofalso">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="#sobre-mi">Sobre mí</a> •
-  <a href="#habilidades">Habilidades</a> •
-  <a href="#proyectos-destacados">Proyectos</a> •
-  <a href="#contacto">Contacto</a>
+  <img alt="Studies" src="https://img.shields.io/badge/Licenciatura%20en%20Informática-UNLP-blue?style=flat-square" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
+  <img alt="Location" src="https://img.shields.io/badge/Location-La%20Plata%2C%20Argentina-orange?style=flat-square" />
 </p>
 
 ---
 
-## 🔎 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Theo Cervera**, estudiante de **Licenciatura en Informática** en la **Universidad Nacional de La Plata (UNLP)**. Me apasiona el desarrollo de software, el aprendizaje de sistemas de bajo nivel y construir proyectos prácticos que resuelvan problemas reales.
+I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UNLP)**, driven by a deep interest in low-level systems, software architecture, and building practical tools that solve real problems.
 
-Trabajo habitualmente con proyectos personales y ejercicios prácticos que puedes encontrar en los repositorios de mas abajo.
+- 🔭 Currently studying **Computer Science (Licenciatura en Informática)** at UNLP
+- 🛠 Building projects across low-level systems, tooling, and game dev
+- 📬 Reach me at **theocervera2003@gmail.com**
+- 🌱 Always learning — currently diving deeper into **Go** and **systems programming**
 
 ---
 
-## 🛠 Habilidades y Tecnologías:
+## 🛠 Tech Stack
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <b>Lenguajes</b>
-      <ul>
-        <li>Python</li>
-        <li>Assembly (x86, boot)</li>
-        <li>GDScript (Godot)</li>
-        <li>Java</li>
-        <li>Go</li>
-        <li>Bash / Batch</li>
-      </ul>
+    <td valign="top" width="33%">
+      <h3>Languages</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Assembly_(x86)-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
     </td>
-    <td valign="top" width="50%">
-      <b>Herramientas & Frameworks</b>
-      <ul>
-        <li>Godot Engine</li>
-        <li>Git / GitHub</li>
-        <li>Make / compilación a bajo nivel</li>
-        <li>Entornos Windows / PowerShell</li>
-      </ul>
+    <td valign="top" width="33%">
+      <h3>Tools & Frameworks</h3>
+      <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=gnu&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Areas of Interest</h3>
+      🔧 Low-Level & Systems Programming<br/><br/>
+      🎮 Game Development<br/><br/>
+      🤖 Computer Vision / Image Processing<br/><br/>
+      📐 Algorithms & Data Structures<br/><br/>
+      ⚙️ Build Systems & Tooling
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-- `assembly-learning/` — ejercicios y proyectos en ensamblador, bootloader y pequeñas utilidades de sistema.
-- `Backgroud-Removal-App/` — aplicación Python para eliminación de fondo en imágenes (con `app.py`).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥 assembly-learning</h3>
+      <p>A collection of <strong>x86 Assembly</strong> exercises and experiments, including a custom bootloader and small system-level utilities. Built to deeply understand how CPUs execute code at the lowest level.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Assembly-x86-6E4C13?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bootloader-BIOS-red?style=flat-square" />
+      </p>
+      <a href="https://github.com/theofalso/assembly-learning">
+        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-blue?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼 Background Removal App</h3>
+      <p>A <strong>Python desktop application</strong> that removes backgrounds from images using computer vision. Clean interface, practical use case — a great example of applied Python tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=flat-square" />
+      </p>
+      <a href="https://github.com/theofalso/Backgroud-Removal-App">
+        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-blue?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Para ver todos los proyectos, explora la carpeta del repositorio y abre cada subcarpeta.
+> 📁 More projects are available in my [repositories](https://github.com/theofalso?tab=repositories). Each folder is a self-contained project — feel free to explore.
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofalso&layout=compact&theme=radical&locale=es" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theofalso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofalso&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theofalso&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Contacto
+## 🗺 What I'm Working On
 
-Puedes contactarme aquí:
+- [ ] Building new projects in **Go** to deepen my backend/systems knowledge  
+- [ ] Exploring **Godot Engine** for a small personal game project  
+- [ ] Open to collaborating on open-source tools or university-related projects  
 
-- Correo: `theocervera2003@gmail.com`
+---
+
+## 📫 Get In Touch
+
+I'm always open to interesting conversations, collaborations, or just connecting with other developers.
+
+| | |
+|---|---|
+| 📧 **Email** | [theocervera2003@gmail.com](mailto:theocervera2003@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/theocervera]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/theo-cervera-lede-a24094251/)) |
+| 🐙 **GitHub** | [github.com/theofalso](https://github.com/theofalso) |
+
+---
+
+<p align="center">
+  <i>⭐ If you find any of my projects useful, a star goes a long way!</i>
+</p>
