@@ -23,7 +23,7 @@ Trabajo habitualmente con proyectos personales y ejercicios prácticos que puede
 
 ---
 
-## 🛠 Habilidades y Tecnologías
+## 🛠 Habilidades y Tecnologías:
 
 <table>
   <tr>
