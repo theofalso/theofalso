@@ -89,7 +89,7 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=flat-square" />
       </p>
-      <a href="https://github.com/theofalso/Backgroud-Removal-App">
+      <a href="https://github.com/theofalso/Background-Removal-App">
         <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-blue?style=flat-square" />
       </a>
     </td>
@@ -128,7 +128,7 @@ I'm always open to interesting conversations, collaborations, or just connecting
 | | |
 |---|---|
 | 📧 **Email** | [theocervera2003@gmail.com](mailto:theocervera2003@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/theocervera]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/theo-cervera-lede-a24094251/)) |
+| 💼 **LinkedIn** | [linkedin.com/in/theocervera]([https://www.linkedin.com/in/theo-cervera-lede-a24094251/](https://www.linkedin.com/in/theo-cervera-lede-a24094251/)) |
 | 🐙 **GitHub** | [github.com/theofalso](https://github.com/theofalso) |
 
 ---
