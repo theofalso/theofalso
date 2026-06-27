@@ -56,11 +56,11 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
     </td>
     <td valign="top" width="33%">
       <h3>Areas of Interest</h3>
-      🔧 Low-Level & Systems Programming<br/><br/>
-      🎮 Game Development<br/><br/>
-      🤖 Computer Vision / Image Processing<br/><br/>
-      📐 Algorithms & Data Structures<br/><br/>
-      ⚙️ Build Systems & Tooling
+      💻 Backend Architecture & Distributed Systems<br/><br/>
+      🚀 Systems Programming & Low-Level Optimization<br/><br/>
+      🔍 Computer Vision & Pattern Recognition<br/><br/>
+      🧠 Advanced Algorithms & Data Structures<br/><br/>
+      🛠️ Build Systems, Tooling & Developer Experience
     </td>
   </tr>
 </table>
