@@ -116,7 +116,6 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
 ## 🗺 What I'm Working On
 
 - [ ] Building new projects in **Go** to deepen my backend/systems knowledge  
-- [ ] Exploring **Godot Engine** for a small personal game project  
 - [ ] Open to collaborating on open-source tools or university-related projects  
 
 ---
