@@ -75,13 +75,13 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥 assembly-learning</h3>
-      <p>A collection of <strong>x86 Assembly</strong> exercises and experiments, including a custom bootloader and small system-level utilities. Built to deeply understand how CPUs execute code at the lowest level.</p>
+      <h3>🧠 fer-resnet-project</h3>
+      <p>A deep learning model utilizing a <strong>ResNet architecture</strong> for Facial Expression Recognition (FER). Built to explore applied computer vision and pattern recognition techniques.</p>
       <p>
-        <img src="https://img.shields.io/badge/Assembly-x86-6E4C13?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bootloader-BIOS-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-ResNet-orange?style=flat-square" />
       </p>
-      <a href="https://github.com/theofalso/assembly-learning">
+      <a href="https://github.com/theofalso/fer-resnet-project">
         <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-blue?style=flat-square" />
       </a>
     </td>
@@ -132,9 +132,3 @@ I'm always open to interesting conversations, collaborations, or just connecting
 | 📧 **Email** | [theocervera2003@gmail.com](mailto:theocervera2003@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/theocervera](https://www.linkedin.com/in/theo-cervera-lede-a24094251/) |
 | 🐙 **GitHub** | [github.com/theofalso](https://github.com/theofalso) |
-
----
-
-<p align="center">
-  <i>⭐ If you find any of my projects useful, a star goes a long way!</i>
-</p>
