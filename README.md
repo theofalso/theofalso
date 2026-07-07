@@ -131,4 +131,3 @@ I'm always open to interesting conversations, collaborations, or just connecting
 |---|---|
 | 📧 **Email** | [theocervera2003@gmail.com](mailto:theocervera2003@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/theocervera](https://www.linkedin.com/in/theo-cervera-lede-a24094251/) |
-| 🐙 **GitHub** | [github.com/theofalso](https://github.com/theofalso) |
